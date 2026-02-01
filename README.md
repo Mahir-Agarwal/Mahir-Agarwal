@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [my github Mahir-Agarwal](my github Mahir-Agarwal)
 
-- 💬 Ask me about **Anything except how to do clean coding :(**
-
 - 📫 How to reach me **mahir2019205@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
