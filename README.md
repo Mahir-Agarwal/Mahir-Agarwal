@@ -1,35 +1,176 @@
-<h1 align="center">Hi 👋, I'm Mahir Aggarwal</h1>
-<h3 align="center">A passionate Full Stack Java Developer from India...</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Mahir+Aggarwal;Full+Stack+Java+Developer;Backend+%26+System+Design" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahir-agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="mahir-agarwal" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahir-agarwal" alt="mahir-agarwal" /></a> </p>
+### 🛠️ Tech Stack
 
-- 🌱 I’m currently learning **Spring Boot and Android Development**
-
-- 👯 I’m looking to collaborate on **Android Development Projects**
-
-- 👨‍💻 All of my projects are available at [my github Mahir-Agarwal](my github Mahir-Agarwal)
-
-- 📫 How to reach me **mahir2019205@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/maguruyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="maguruyt" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahir_aggarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahir_aggarwal" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahir-agarwal&show_icons=true&locale=en&layout=compact" alt="mahir-agarwal" /></p>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahir-agarwal&show_icons=true&locale=en" alt="mahir-agarwal" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahir-agarwal&" alt="mahir-agarwal" /></p>
+- 🌱 Currently deep-diving into **Spring Boot Microservices**
+- 📱 Building **Android apps with Jetpack Compose**
+- 🧠 Focused on **DSA & System Design**
+- 🚀 Passionate about **scalable backend systems**
+- 📫 Reach me: **mahir2019205@gmail.com**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahir-Agarwal/Mahir-Agarwal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahir-Agarwal/Mahir-Agarwal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<br clear="right"/>
+
+---
+
+### 💻 Featured Projects
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💸 <a href="https://github.com/Mahir-Agarwal/GroupPay-Backend">GroupPay-Backend</a></h4>
+      <p>A high-performance REST API engineered to simplify complex group finances. It utilizes a <b>Greedy "Minimum Cash Flow" Algorithm</b> to solve the NP-hard problem of debt simplification and minimize transactions. Built with <b>Java, Spring Boot, JWT Auth, and Docker</b>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔌 <a href="https://github.com/Mahir-Agarwal/ConnectX-ServerSide">ConnectX-ServerSide</a></h4>
+      <p>A scalable backend architecture designed to power seamless client-server interactions. Engineered to handle secure user management, robust routing, and efficient data processing using domain-driven design principles.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 What I Build
+
+I enjoy building **scalable backend systems** and **real-time applications**.
+
+- 🔌 **ConnectX** → WebRTC signaling and scalable microservices architecture.
+- 💸 **GroupPay** → Debt simplification backend utilizing greedy algorithms.
+- 📱 **Android Apps** → Mobile applications integrated with real-time APIs.
+
+---
+## 📐 Engineering Workflow
+
+```mermaid
+flowchart TD
+
+Idea["💡 Idea / Feature"] --> Notion["📝 Documentation (Notion)"]
+Notion --> Design["📊 System Design (Eraser.io)"]
+Design --> Sketch["✏️ Architecture Sketch (Excalidraw)"]
+Sketch --> Build["⚙️ Implementation (Spring Boot)"]
+
+style Idea fill:#1f2937,color:#fff
+style Notion fill:#9333ea,color:#fff
+style Design fill:#2563eb,color:#fff
+style Sketch fill:#ea580c,color:#fff
+style Build fill:#16a34a,color:#fff
+```
+
+I document system ideas and requirements using **Notion**,  
+design system architectures with **Eraser.io**,  
+and sketch architecture flows visually using **Excalidraw** before implementation.
+
+---
+
+### 📄 Resume
+
+📥 **[Download my Resume Here](#)**
+
+---
+
+### 🖥️ Developer Terminal
+
+```bash
+mahir@backend-server:~$ whoami
+Mahir Aggarwal
+
+mahir@backend-server:~$ cat role.txt
+Full Stack Java Developer 
+
+mahir@backend-server:~$ ls skills/
+java spring-boot android jetpack-compose redis docker mysql
+
+mahir@backend-server:~$ ./run_current_focus.sh
+> Architecting scalable microservices
+> Optimizing DSA problem-solving
+> Building GroupPay & ConnectX
+
+mahir@backend-server:~$ uptime
+🚀 Coding, building, and scaling systems consistently.
+```
+
+---
+
+### 🧠 Backend & System Design Skills
+
+- Microservices Architecture
+- RESTful API Design
+- WebSocket Communication
+- Redis Caching
+- JWT Authentication
+- API Gateway & Service Discovery
+- Rate Limiting
+- Dockerized Deployments
+
+---
+
+
+### 🏆 Highlights
+
+- ⭐ Solved **300+ DSA problems**
+- 🧩 Built **microservices-based backend systems**
+- 📱 Developed **Android applications with real-time APIs**
+- ☕ Strong focus on **Java backend development**
+
+---
+
+### 📊 GitHub Stats & LeetCode
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mahir-Agarwal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://leetcard.jacoblin.cool/mahir_aggarwal?theme=dark&font=Fira%20Code&ext=activity"/>
+
+</div>
+
+<br>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahir-Agarwal&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.leetcode.com/mahir_aggarwal">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  </a>
+  <a href="mailto:mahir2019205@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+  <sub>Engineered and Developed by <a href="https://github.com/Mahir-Agarwal">Mahir Aggarwal</a></sub>
+</div>
