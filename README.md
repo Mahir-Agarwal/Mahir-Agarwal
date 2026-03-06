@@ -56,15 +56,6 @@
   </tr>
 </table>
 
----
-
-### 🚀 What I Build
-
-I enjoy building **scalable backend systems** and **real-time applications**.
-
-- 🔌 **ConnectX** → WebRTC signaling and scalable microservices architecture.
-- 💸 **GroupPay** → Debt simplification backend utilizing greedy algorithms.
-- 📱 **Android Apps** → Mobile applications integrated with real-time APIs.
 
 ---
 ## 📐 Engineering Workflow
@@ -103,42 +94,24 @@ mahir@backend-server:~$ whoami
 Mahir Aggarwal
 
 mahir@backend-server:~$ cat role.txt
-Full Stack Java Developer 
+Full Stack Java Developer
 
-mahir@backend-server:~$ ls skills/
+mahir@backend-server:~$ ls tech-stack/
 java spring-boot android jetpack-compose redis docker mysql
+
+mahir@backend-server:~$ cat backend_skills.txt
+Microservices Architecture & RESTful API Design
+WebSocket Communication & JWT Authentication
+API Gateway & Service Discovery
+Dockerized Deployments
 
 mahir@backend-server:~$ ./run_current_focus.sh
 > Architecting scalable microservices
 > Optimizing DSA problem-solving
-> Building GroupPay & ConnectX
 
 mahir@backend-server:~$ uptime
 🚀 Coding, building, and scaling systems consistently.
 ```
-
----
-
-### 🧠 Backend & System Design Skills
-
-- Microservices Architecture
-- RESTful API Design
-- WebSocket Communication
-- Redis Caching
-- JWT Authentication
-- API Gateway & Service Discovery
-- Rate Limiting
-- Dockerized Deployments
-
----
-
-
-### 🏆 Highlights
-
-- ⭐ Solved **300+ DSA problems**
-- 🧩 Built **microservices-based backend systems**
-- 📱 Developed **Android applications with real-time APIs**
-- ☕ Strong focus on **Java backend development**
 
 ---
 
@@ -152,11 +125,6 @@ mahir@backend-server:~$ uptime
 
 </div>
 
-<br>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahir-Agarwal&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
