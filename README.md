@@ -83,7 +83,7 @@ and sketch architecture flows visually using **Excalidraw** before implementatio
 
 ### 📄 Resume
 
-📥 **[Download my Resume Here](#)**
+📥 **[Download my Resume Here](https://drive.google.com/file/d/1IVo_mZXLEEWX01o6GtrXP3K2bnEncs0r/view?usp=sharing)**
 
 ---
 
