@@ -119,8 +119,6 @@ mahir@backend-server:~$ uptime
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mahir-Agarwal&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://leetcard.jacoblin.cool/mahir_aggarwal?theme=dark&font=Fira%20Code&ext=activity"/>
 
 </div>
