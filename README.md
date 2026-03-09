@@ -115,7 +115,7 @@ mahir@backend-server:~$ uptime
 
 ---
 
-### 📊 GitHub Stats & LeetCode
+### 📊 LeetCode
 
 <div align="center">
 
