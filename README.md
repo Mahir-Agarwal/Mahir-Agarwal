@@ -110,7 +110,7 @@ mahir@backend-server:~$ ./run_current_focus.sh
 > Optimizing DSA problem-solving
 
 mahir@backend-server:~$ uptime
-🚀 Coding, building, and scaling systems consistently.
+Coding, building, and scaling systems consistently.
 ```
 
 ---
