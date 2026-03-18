@@ -1,142 +1,98 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Mahir+Aggarwal;Full+Stack+Java+Developer;Backend+%26+System+Design" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e1e&height=250&section=header&text=Mahir%20Aggarwal&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=00FF99&desc=Backend%20Engineer%20%E2%80%A2%20Android%20Developer%20%E2%80%A2%20System%20Design&descAlignY=55&descAlign=50" />
+</div>
 
----
+<div align="center">
+  <a href="https://drive.google.com/file/d/1IVo_mZXLEEWX01o6GtrXP3K2bnEncs0r/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=google-drive&logoColor=00FF99"/></a>
+  <a href="mailto:mahir2019205@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=minutemailer&logoColor=00FF99"/></a>
+  <a href="https://www.leetcode.com/mahir_aggarwal"><img src="https://img.shields.io/badge/Leetcode-111111?style=for-the-badge&logo=leetcode&logoColor=00FF99"/></a>
+  
+</div>
 
-### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<br><br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" width="350"/>
   <br>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+  <i>"Coding, building, and scaling systems consistently."</i>
+</div>
 
----
+<br>
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<div align="center">
+  <code>Microservices</code> ⚡ <code>RESTful APIs</code> ⚡ <code>Mobile UI</code> ⚡ <code>High-Perf Backends</code>
+</div>
 
-### 👨‍💻 About Me
+<br>
 
-- 🌱 Currently deep-diving into **Spring Boot Microservices**
-- 📱 Building **Android apps with Jetpack Compose**
-- 🧠 Focused on **DSA & System Design**
-- 🚀 Passionate about **scalable backend systems**
-- 📫 Reach me: **mahir2019205@gmail.com**
+>👋 I'm a Full Stack Java Developer interested in building scalable backend systems and Android applications. I focus on writing clean, efficient, and maintainable code while continuously improving my development skills. Currently, I'm exploring Spring Boot in depth and learning system design to build better real-world solutions.
 
-<br clear="right"/>
+<br>
 
----
+<div align="center">
+    <h2>🛠️ Tech Arsenal</h2>
+    <p>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,linux,jenkins&perline=7" />
+        </a>
+    </p>
+    <p>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=kotlin,android,js,html,css,firebase,git&perline=7" />
+        </a>
+    </p>
+</div>
 
-### 💻 Featured Projects
+<br>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💸 <a href="https://github.com/Mahir-Agarwal/GroupPay-Backend">GroupPay-Backend</a></h4>
-      <p>A high-performance REST API engineered to simplify complex group finances. It utilizes a <b>Greedy "Minimum Cash Flow" Algorithm</b> to solve the NP-hard problem of debt simplification and minimize transactions. Built with <b>Java, Spring Boot, JWT Auth, and Docker</b>.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔌 <a href="https://github.com/Mahir-Agarwal/ConnectX-ServerSide">ConnectX-ServerSide</a></h4>
-      <p>A scalable backend architecture designed to power seamless client-server interactions. Engineered to handle secure user management, robust routing, and efficient data processing using domain-driven design principles.</p>
-    </td>
-  </tr>
-</table>
-
-
----
 ## 📐 Engineering Workflow
 
 ```mermaid
-flowchart TD
+flowchart LR
 
-Idea["💡 Idea / Feature"] --> Notion["📝 Documentation (Notion)"]
-Notion --> Design["📊 System Design (Eraser.io)"]
-Design --> Sketch["✏️ Architecture Sketch (Excalidraw)"]
-Sketch --> Build["⚙️ Implementation (Spring Boot)"]
+Idea["💡 Feature Definition"] --> Notion["📝 Docs (Notion)"]
+Notion --> Design["📊 Auth & Flow (Eraser.io)"]
+Design --> Sketch["✏️ Architecture (Excalidraw)"]
+Sketch --> Build["⚙️ Sprint (Spring Boot)"]
+Build --> CI["🔁 CI/CD (Jenkins)"]
+CI --> Deploy["🐳 Docker Compose"]
 
-style Idea fill:#1f2937,color:#fff
-style Notion fill:#9333ea,color:#fff
-style Design fill:#2563eb,color:#fff
-style Sketch fill:#ea580c,color:#fff
-style Build fill:#16a34a,color:#fff
+style Idea fill:#1f2937,color:#fff,stroke:#FF8C00,stroke-width:2px
+style Notion fill:#9333ea,color:#fff,stroke:#111,stroke-width:2px
+style Design fill:#2563eb,color:#fff,stroke:#111,stroke-width:2px
+style Sketch fill:#ea580c,color:#fff,stroke:#111,stroke-width:2px
+style Build fill:#16a34a,color:#fff,stroke:#111,stroke-width:2px
+style CI fill:#d97706,color:#fff,stroke:#111,stroke-width:2px
+style Deploy fill:#2496ED,color:#fff,stroke:#111,stroke-width:2px
 ```
 
-I document system ideas and requirements using **Notion**,  
-design system architectures with **Eraser.io**,  
-and sketch architecture flows visually using **Excalidraw** before implementation.
+<br>
 
----
+## 💻 Featured Builds
 
-### 📄 Resume
+### 💸 [GroupPay-Backend](https://github.com/Mahir-Agarwal/GroupPay-Backend)
+> **Tech:** Java, Spring Boot, JWT, Docker  
+> Backend API for managing group expenses and simplifying payments.  
+> Uses the Minimum Cash Flow algorithm to reduce the number of transactions and ensures secure user authentication.
 
-📥 **[Download my Resume Here](https://drive.google.com/file/d/1IVo_mZXLEEWX01o6GtrXP3K2bnEncs0r/view?usp=sharing)**
+### 🔌 [ConnectX-ServerSide](https://github.com/Mahir-Agarwal/ConnectX-ServerSide)
+> **Tech:** Java, SpringBoot, Eureka, Spring Cloud GateWay, JWT, Microservices  
+> Backend system for handling user management and communication between services.  
+> Focused on clean structure, scalability, and efficient data handling.
 
----
+<br>
 
-### 🖥️ Developer Terminal
-
-```bash
-mahir@backend-server:~$ whoami
-Mahir Aggarwal
-
-mahir@backend-server:~$ cat role.txt
-Full Stack Java Developer
-
-mahir@backend-server:~$ ls tech-stack/
-java spring-boot android jetpack-compose redis docker mysql
-
-mahir@backend-server:~$ cat backend_skills.txt
-Microservices Architecture & RESTful API Design
-WebSocket Communication & JWT Authentication
-API Gateway & Service Discovery
-Dockerized Deployments
-
-mahir@backend-server:~$ ./run_current_focus.sh
-> Architecting scalable microservices
-> Optimizing DSA problem-solving
-
-mahir@backend-server:~$ uptime
-Coding, building, and scaling systems consistently.
-```
-
----
-
-### 📊 LeetCode
+## 📊 Analytics & Activity
 
 <div align="center">
-
-<img height="170" src="https://leetcard.jacoblin.cool/mahir_aggarwal?theme=dark&font=Fira%20Code&ext=activity"/>
-
+  <img src="https://leetcard.jacoblin.cool/mahir_aggarwal?theme=transparent&font=Fira%20Code&ext=activity" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahir-Agarwal&theme=transparent&hide_border=true&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00" width="48%">
 </div>
 
-
----
-
-### 🌐 Let's Connect
-
+<hr>
 <p align="center">
-  <a href="https://www.leetcode.com/mahir_aggarwal">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  </a>
-  <a href="mailto:mahir2019205@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  <a href="https://github.com/Mahir-Agarwal">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=666666&height=80&section=footer&text=Engineered%20and%20Developed%20by%20Mahir%20Aggarwal&fontSize=20&animation=twinkling" />
   </a>
 </p>
-
-<div align="center">
-  <sub>Engineered and Developed by <a href="https://github.com/Mahir-Agarwal">Mahir Aggarwal</a></sub>
-</div>
