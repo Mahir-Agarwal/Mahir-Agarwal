@@ -26,7 +26,7 @@
 
 <br>
 
->👋 I'm a Full Stack Java Developer interested in building scalable backend systems and Android applications. I focus on writing clean, efficient, and maintainable code while continuously improving my development skills. Currently, I'm exploring Spring Boot in depth and learning system design to build better real-world solutions.
+>👋I'm a Full Stack Java Developer interested in building scalable backend systems and Android applications. I focus on writing clean, efficient, and maintainable code while continuously improving my development skills. Currently, I'm exploring Spring Boot in depth and learning system design to build better real-world solutions.
 
 <br>
 
