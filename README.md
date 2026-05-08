@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1IVo_mZXLEEWX01o6GtrXP3K2bnEncs0r/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=google-drive&logoColor=00FF99"/></a>
+  <a href="https://drive.google.com/file/d/1jqN2eKLyphzqlv51GS41ZOjsuIAjY5mO/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=google-drive&logoColor=00FF99"/></a>
   <a href="mailto:mahir2019205@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=minutemailer&logoColor=00FF99"/></a>
   <a href="https://www.leetcode.com/mahir_aggarwal"><img src="https://img.shields.io/badge/Leetcode-111111?style=for-the-badge&logo=leetcode&logoColor=00FF99"/></a>
   
